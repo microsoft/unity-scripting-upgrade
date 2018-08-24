@@ -1,6 +1,6 @@
 # Unity Scripting Runtime Upgrades
 
-For more information, please see the documentation [here](https://docs.microsoft.com/visualstudio/cross-platform/unity-scripting-upgrade) which explains all of the new features you can use with Unity 2017.x (or newer) with the .NET 4.6 and .NET Standard 2.0 support.
+For more information, please see the documentation [here](https://docs.microsoft.com/visualstudio/cross-platform/unity-scripting-upgrade) which explains all of the new features you can use with Unity 2017.x (or newer) and .NET 4.6 and .NET Standard 2.0 support.
 
 # Contributing
 

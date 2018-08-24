@@ -12,3 +12,14 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+## Credits
+The sample uses the Pokeapi: https://www.pokeapi.co/ 
+
+### Audio credits
+
+* **applause:** https://freesound.org/people/Sandermotions/sounds/277020/
+* **orchestra** warming up: https://freesound.org/people/BeeProductive/sounds/378283/ 
+
+These works are licensed under the Creative Commons 0 License.
+https://creativecommons.org/publicdomain/zero/1.0/
